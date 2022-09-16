@@ -1,5 +1,5 @@
 
-# Paytm Clone 
+# Shopify Clone 
 
 **Name :**  Shivam Sharma
 
